@@ -1,0 +1,9 @@
+.vscode
+.metals
+.venv
+temp/
+__pycache__
+
+target/
+dbt_modules/
+logs/
